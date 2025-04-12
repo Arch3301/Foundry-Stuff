@@ -11,6 +11,6 @@
     "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/main/styles/module.css"
   ],
   "url": "https://yourwebsite.com",
-  "compatibleCoreVersion": "9.0.0",
+  "compatibleCoreVersion": ">=9.0.0",
   "systems": ["pf2e"]
 }
