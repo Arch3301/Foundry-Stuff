@@ -10,7 +10,7 @@
   "styles": [
     "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/main/styles/module.css"
   ],
-  "manifest": "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/master/manifest.json",
+  "manifest": "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/main/manifest.json",
   "url": "https://yourwebsite.com",
   "compatibleCoreVersion": "9.0.0",
   "systems": ["pf2e"]
