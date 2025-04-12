@@ -5,10 +5,10 @@
   "version": "1.0.0",
   "author": "Arch3301",
   "scripts": [
-    "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/master/scripts/main.js"
+    "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/main/scripts/main.js"
   ],
   "styles": [
-    "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/master/styles/module.css"
+    "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/main/styles/module.css"
   ],
   "manifest": "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/master/manifest.json",
   "url": "https://yourwebsite.com",
