@@ -1,0 +1,17 @@
+{
+  "name": "custom-item-module",
+  "title": "Custom Item Module",
+  "description": "A custom module for managing custom item slots and traits.",
+  "version": "1.0.0",
+  "author": "Arch3301",
+  "scripts": [
+    "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/master/scripts/main.js"
+  ],
+  "styles": [
+    "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/master/styles/module.css"
+  ],
+  "manifest": "https://raw.githubusercontent.com/Arch3301/Foundry-Stuff/master/manifest.json",
+  "url": "https://yourwebsite.com",
+  "compatibleCoreVersion": "9.0.0",
+  "systems": ["pf2e"]
+}

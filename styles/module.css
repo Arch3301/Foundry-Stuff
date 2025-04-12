@@ -1,0 +1,8 @@
+/* module.css for Custom Item Module */
+
+.custom-item {
+  border: 2px dashed #6b8e23;
+  background-color: #f8fff0;
+  padding: 5px;
+  border-radius: 8px;
+}
